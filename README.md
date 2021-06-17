@@ -3,7 +3,7 @@ Congrats on making it this far! This test is to give you a small glimpse on the 
 
 We are pushing technology and we usually go after difficult problems to solve that usually requires between 2 weeks to 6 months of efforts. Having a good methodology to understand the problem, evaluate and test hypotheses, documenting and taking the solution to production is therefore essential to have fun working at Extend AI.
 
-We like to think outside of the box. We link to think with a first principles approach.
+We like to think outside of the box with a first principles perspective.
 
 We hope you'll enjoy solving this problem!
 
