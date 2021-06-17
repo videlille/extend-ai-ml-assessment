@@ -1,5 +1,5 @@
 # Extend AI Machine Learning Engineer Assessment
-Congrats on making it this far! This test is to give you a small glimpse on the nature of the problems you could solve at Extend AI. Before diving in the complex nature of spacetime AI models (4D), we propose we start together our journey at the 2D texture level.
+Congrats on making it this far! This test is to give you a small glimpse on the nature of the problems you could solve at Extend AI. Before diving in the complex nature of spacetime AI models (4D), we propose to start your journey at the 2D texture level.
 
 We are pushing technology and we usually go after difficult problems to solve that usually requires between 2 weeks to 6 months of efforts. Having a good methodology to understand the problem, evaluate and test hypotheses, documenting and taking the solution to production is therefore essential to have fun working at Extend AI.
 
